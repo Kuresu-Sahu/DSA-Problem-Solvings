@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
