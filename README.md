@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Kuresu-Sahu/DSA-Problem-Solvings/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
